@@ -5,4 +5,4 @@ Data Science projects spring 2019. Data wrangling, data tidying, and R. Focused 
 
 ### Contributors
 Larry Breeden, Elizabeth Foster, Gemma Hoeppner, Kelsey Smith, and Nathanael Whitney
-For Dr. Nels Grevstad
+for Dr. Nels Grevstad
